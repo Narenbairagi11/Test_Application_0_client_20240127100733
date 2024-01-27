@@ -1,0 +1,9 @@
+{
+    "appId": "test_application_0-slssm",
+    "appUrl": "https://realm.mongodb.com/groups/65b4a8958f44fd64d330f923/apps/65b4d2f5cf0a1d0f68d44d4b",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://ap-south-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://ap-south-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/65b4a8958f44fd64d330f923/explorer/Cluster/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
